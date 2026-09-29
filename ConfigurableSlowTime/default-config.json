@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json",
+  "enabled": true,
+  "settings": {
+    "loopLengthMinutes": {
+      "title": "Loop Length",
+      "type": "number",
+      "value": 42,
+      "tooltip": "How long the time loop should last, in minutes. Changing this mid-loop might have unexpected outcomes!."
+    }
+  }
+}
